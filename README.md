@@ -26,3 +26,5 @@ The procedures for setting up the environment needed to compile and run the code
   2. Akruti Sinha 
   3. Soha Bhatia
   4. [Ravi Ghevariya](https://github.com/ravighevariya10)
+
+_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 540: Database Management System, completed during the Fall semester of 2022._
